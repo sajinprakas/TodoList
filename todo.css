@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    }
+
+ .t1{
+     text-align: center;
+ }
+ 
+ td{
+     background-color: #b9ffb9;
+     
+ }
+
+ tr{
+     background-color: teal;
+ }
+
+ table{
+     font-size: large;
+     border: 1px solid rgb(24, 151, 124);
+ }
+
+ th,td{
+     border: 1px solid rgb(133, 133, 127);
+     border-right: double 3px #000000;
+     border-left: double 3px #000000;
+     border-bottom: 2px dashed #3c514d;
+     padding: 10px;
+ }
